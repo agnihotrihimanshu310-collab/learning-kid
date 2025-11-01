@@ -1,8 +1,4 @@
-def sum(a,b):
-  return a+b
+from flask import Flask
 
-print(sum(3,56))
+app = Flask(__name__)
 
-
-
-  
