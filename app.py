@@ -1,7 +1,8 @@
 def sum(a,b):
   return a+b
 
-print(sum(34,56))
+print(sum(3,56))
+
 
 
   
